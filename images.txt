@@ -8,3 +8,5 @@ mysql:8.0
 nacos/nacos-server:v2.3.2
 redis:7.2.5
 node:18.20
+elasticsearch:8.11.0
+
